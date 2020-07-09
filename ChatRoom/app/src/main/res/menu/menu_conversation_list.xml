@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.chatroom.ConversationList">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/log_out"
+        android:visible="true"
+        app:showAsAction="never" />
+</menu>
